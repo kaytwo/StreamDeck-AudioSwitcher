@@ -35,7 +35,7 @@
   "CodePathMac": "sdaudioswitch",
   "CodePathWin": "sdaudioswitch.exe",
   "Description": "Toggle or set the active audio devices.",
-  "Name": "Audio Switcher",
+  "Name": "Dial Audio Switcher",
   "PropertyInspectorPath": "propertyinspector/index.html",
   "Icon": "headphones",
   "Category": "Audio Devices",
